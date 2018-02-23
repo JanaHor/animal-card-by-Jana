@@ -1,0 +1,59 @@
+body {
+  font-family: arial, sans serif;
+}
+
+img {
+  width: 300px;
+  margin: 0 auto;
+  border: 1px solid aqua;
+  border-radius: 1em 1em 0 0;
+}
+
+ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+li {
+  font-size: 14px;
+}
+
+li span {
+  font-weight: bold;
+}
+
+h3 {
+  margin: 0 0 20px;
+  font-size: 20px;
+  color: white;
+}
+
+p {
+  margin: 0;
+  font-size: 14px;
+}
+
+.card {
+  width: 300px;
+  padding: 30px;
+  color: white;
+  background-color: gray;
+  border: 10px solid #9f9f9f;
+  border-radius: 3em;
+}
+
+.intresting {
+  font-style: italic;
+}
+
+.description {
+  text-align: justify;
+}
+
+.info {
+  border: 1px solid aqua;
+  padding: 15px;
+  margin-top: 15px;
+  vertical-align: top;
+  border-radius: 0 0 1em 1em;
+}
